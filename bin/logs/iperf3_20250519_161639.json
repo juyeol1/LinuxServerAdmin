@@ -1,0 +1,10 @@
+{
+	"start":	{
+		"connected":	[],
+		"version":	"iperf 3.9",
+		"system_info":	"Linux server1.example.com 5.14.0-575.el9.x86_64 #1 SMP PREEMPT_DYNAMIC Tue Mar 25 17:50:19 UTC 2025 x86_64"
+	},
+	"intervals":	[],
+	"end":	{
+	}
+}
